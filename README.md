@@ -27,4 +27,5 @@ This is a simple Python desktop app that removes the background from images usin
 pip install -r requirements.txt
 
 2. Run the app
+```bash
 python bg_remover_app.py
