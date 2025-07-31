@@ -13,7 +13,7 @@ This is a simple Python desktop app that removes the background from images usin
 
 | Input Image | Output Image |
 |-------------|--------------|
-| ![input](https://github.com/Keerthanak167/Background-remover-using-python/blob/main/images.jpeg?raw=true) | ![output](https://github.com/Keerthanak167/Background-remover-using-python/blob/main/images.jpeg?raw=true) |
+| ![input](https://github.com/Keerthanak167/Background-remover-using-python/blob/main/images.jpeg?raw=true) | ![output](https://github.com/Keerthanak167/Background-remover-using-python/blob/main/no_bg_images.jpeg?raw=true) |
 
 > The same image URL is used for both input and output here. Replace with different links if needed.
 
