@@ -22,7 +22,7 @@ This is a simple Python desktop app that removes the background from images usin
 
 You can also try the background remover live here:
 
-🔗 Hugging Face Demo
+🔗 **[Live Demo on Hugging Face](https://huggingface.co/spaces/Keerthana165/Background-remover)**
 
 
 ---
