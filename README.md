@@ -33,6 +33,7 @@ You can also try the background remover live here:
 ```bash
 git clone https://github.com/Keerthanak167/Background-remover-using-python.git
 cd Background-remover-using-python
+```
 2. Install all dependencies:
 
 ```bash
