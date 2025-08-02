@@ -28,11 +28,16 @@ You can also try the background remover live here:
 ---
 ## 🛠 How to Run
 
-1. Install all dependencies:
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Keerthanak167/Background-remover-using-python.git
+cd Background-remover-using-python
+2. Install all dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
-2. Run the app
+3. Run the app
 ```bash
 python bg_remover_app.py
