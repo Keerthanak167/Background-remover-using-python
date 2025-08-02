@@ -18,7 +18,14 @@ This is a simple Python desktop app that removes the background from images usin
 
 
 ---
+🌐 Try It Online
 
+You can also try the background remover live here:
+
+🔗 Hugging Face Demo
+
+
+---
 ## 🛠 How to Run
 
 1. Install all dependencies:
